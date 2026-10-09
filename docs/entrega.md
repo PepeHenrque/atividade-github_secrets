@@ -87,5 +87,5 @@ $$\text{GitHub Secret} \longrightarrow \text{GitHub Actions Runner} \longrightar
 ---
 
 ## 5. Evidência de Execução da Pipeline
+<img width="1459" height="178" alt="image" src="https://github.com/user-attachments/assets/a43b38b2-ff7e-436f-8391-27908780caaa" />
 
-*(Após configurar o Secret e fazer o push para o GitHub, anexe aqui o print ou log da execução da aba Actions comprovando o sucesso do job e a mensagem `Secret recebido pela aplicação com sucesso.`)*
